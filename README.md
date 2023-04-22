@@ -4,7 +4,7 @@ the link bellow ***might*** be the a list of resource about open education stuff
 if you want to contribut to this, read the followings
 
 ## How to contribute?
-as you know, fork this ,make some commits , push to some branches and waiting for pull requests 
+as you know, fork this ,make some commits , push to some branches and make pull request and wait for being merged
 
 ## What to contribute?
 you can contribute your ***high school notes*** or ***senior high school*** note.
